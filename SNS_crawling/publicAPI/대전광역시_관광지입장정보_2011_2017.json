@@ -1,0 +1,7242 @@
+[
+    {
+        "ForNum": 10,
+        "NatNum": 10,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 548,
+        "NatNum": 10,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 100,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 7,
+        "NatNum": 7335,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 78,
+        "NatNum": 5148,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 34604,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 79251,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 270,
+        "NatNum": 3910,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 18278,
+        "NatNum": 40473,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 8363,
+        "NatNum": 33687,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 55,
+        "NatNum": 56653,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 2004,
+        "NatNum": 47905,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 4350,
+        "NatNum": 44787,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 3012,
+        "NatNum": 63931,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1800,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 16,
+        "sido": "대전광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 10,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 460,
+        "NatNum": 5,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 100,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 26,
+        "NatNum": 26175,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 1108,
+        "NatNum": 72774,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25901,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 73591,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 230,
+        "NatNum": 2930,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 15715,
+        "NatNum": 38845,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 8460,
+        "NatNum": 27747,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 24,
+        "NatNum": 50201,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 1611,
+        "NatNum": 40586,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 3185,
+        "NatNum": 40803,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 1821,
+        "NatNum": 43725,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 953,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 16,
+        "sido": "대전광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 10,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 490,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 100,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 65,
+        "NatNum": 65177,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 727,
+        "NatNum": 47724,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19593,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 57815,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 250,
+        "NatNum": 3190,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 18837,
+        "NatNum": 46757,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 6854,
+        "NatNum": 25328,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 95,
+        "NatNum": 45983,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 2930,
+        "NatNum": 41767,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 5363,
+        "NatNum": 44508,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 972,
+        "NatNum": 24621,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1405,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 16,
+        "sido": "대전광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 400,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 360,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 21,
+        "NatNum": 490,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 171,
+        "NatNum": 171794,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 730,
+        "NatNum": 55424,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 210135,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 135,
+        "NatNum": 186133,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 270,
+        "NatNum": 4350,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 17509,
+        "NatNum": 83440,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 7763,
+        "NatNum": 33158,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 148,
+        "NatNum": 42130,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 2171,
+        "NatNum": 44417,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 2807,
+        "NatNum": 43939,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 2599,
+        "NatNum": 62386,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1765,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 480,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 300,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 20,
+        "NatNum": 480,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 213,
+        "NatNum": 213740,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 899,
+        "NatNum": 68231,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 183645,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 131,
+        "NatNum": 163611,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 205,
+        "NatNum": 3815,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 16933,
+        "NatNum": 44156,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 7018,
+        "NatNum": 26202,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 137,
+        "NatNum": 40677,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 3218,
+        "NatNum": 40340,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 3977,
+        "NatNum": 40967,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 3415,
+        "NatNum": 72477,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 18,
+        "NatNum": 450,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 250,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 12,
+        "NatNum": 380,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 103,
+        "NatNum": 103873,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 519,
+        "NatNum": 39375,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28602,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 135,
+        "NatNum": 64248,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 212,
+        "NatNum": 3150,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 103451,
+        "NatNum": 299315,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 498,
+        "NatNum": 2384,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "홍인관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 75,
+        "NatNum": 13339,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 2660,
+        "NatNum": 38976,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 7331,
+        "NatNum": 28611,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 810,
+        "NatNum": 21084,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 14,
+        "NatNum": 441,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 28,
+        "NatNum": 205,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 24,
+        "NatNum": 860,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 51,
+        "NatNum": 50573,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 610,
+        "NatNum": 46284,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 45479,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85487,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 245,
+        "NatNum": 3980,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 18953,
+        "NatNum": 44930,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 53,
+        "NatNum": 37873,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 2207,
+        "NatNum": 34734,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 9349,
+        "NatNum": 30561,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 1925,
+        "NatNum": 46201,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 250,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 310,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 250,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 119,
+        "NatNum": 118802,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 910,
+        "NatNum": 69054,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 93342,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 250,
+        "NatNum": 132521,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 255,
+        "NatNum": 4820,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 23185,
+        "NatNum": 58894,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 417,
+        "NatNum": 32288,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 2960,
+        "NatNum": 35576,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 926,
+        "NatNum": 15714,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 2576,
+        "NatNum": 54683,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 6,
+        "NatNum": 289,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "코스모스관광호텔",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 12,
+        "NatNum": 160,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "한일관광호텔",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 10,
+        "NatNum": 200,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "태웅관광호텔",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 98,
+        "NatNum": 98103,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 414,
+        "NatNum": 31414,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68945,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 45,
+        "NatNum": 67120,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 240,
+        "NatNum": 800,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 19064,
+        "NatNum": 45140,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 218,
+        "NatNum": 38069,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 2700,
+        "NatNum": 35371,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 1082,
+        "NatNum": 12905,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 13,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 1147,
+        "NatNum": 29880,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 14,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 15,
+        "sido": "대전광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 206,
+        "NatNum": 205701,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 624,
+        "NatNum": 47376,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 242946,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 147,
+        "NatNum": 152144,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 305,
+        "NatNum": 7692,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 22249,
+        "NatNum": 57287,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 482,
+        "NatNum": 65547,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 3925,
+        "NatNum": 44472,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 10179,
+        "NatNum": 39076,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 2527,
+        "NatNum": 53649,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 61,
+        "NatNum": 60491,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 455,
+        "NatNum": 34545,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 35635,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 77321,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 270,
+        "NatNum": 6838,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 22464,
+        "NatNum": 54618,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 405,
+        "NatNum": 50584,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 3369,
+        "NatNum": 42944,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 7944,
+        "NatNum": 41905,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 752,
+        "NatNum": 19587,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 23,
+        "NatNum": 23316,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 676,
+        "NatNum": 51324,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28613,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 70028,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 240,
+        "NatNum": 7049,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 21433,
+        "NatNum": 48235,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 451,
+        "NatNum": 70399,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1609,
+        "NatNum": 55244,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 4773,
+        "NatNum": 42064,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1709,
+        "NatNum": 41034,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 23,
+        "NatNum": 22855,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 267,
+        "NatNum": 20287,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 37470,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 70672,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 215,
+        "NatNum": 3340,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 17666,
+        "NatNum": 40268,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 240,
+        "NatNum": 66360,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 1086,
+        "NatNum": 37974,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 4940,
+        "NatNum": 39591,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 3770,
+        "NatNum": 80027,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 795,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 30,
+        "NatNum": 30236,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 121,
+        "NatNum": 9154,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 35211,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 79457,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 235,
+        "NatNum": 4850,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 20601,
+        "NatNum": 47890,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 98,
+        "NatNum": 57865,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 1846,
+        "NatNum": 43631,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 7267,
+        "NatNum": 42939,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 1459,
+        "NatNum": 35025,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3362,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 58,
+        "NatNum": 58274,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 34109,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 66618,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 230,
+        "NatNum": 5650,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 18152,
+        "NatNum": 42255,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 152,
+        "NatNum": 56384,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 2353,
+        "NatNum": 42175,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 5011,
+        "NatNum": 40207,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성코리아온천관광호텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 614,
+        "NatNum": 16936,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1496,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 178,
+        "NatNum": 178078,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36531,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 140699,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 5400,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 20241,
+        "NatNum": 49241,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 390,
+        "NatNum": 73062,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 2339,
+        "NatNum": 39233,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 10327,
+        "NatNum": 39477,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 1306,
+        "NatNum": 32355,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2263,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 234,
+        "NatNum": 233268,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 346505,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 130424,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 165,
+        "NatNum": 4320,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 21801,
+        "NatNum": 57975,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 279,
+        "NatNum": 33561,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 4986,
+        "NatNum": 35947,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 19599,
+        "NatNum": 34850,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 3410,
+        "NatNum": 72470,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2319,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 102,
+        "NatNum": 101597,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 26531,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85177,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 190,
+        "NatNum": 4650,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 17400,
+        "NatNum": 40597,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 28613,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 2476,
+        "NatNum": 34516,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 15806,
+        "NatNum": 35073,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "꿈돌이랜드",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2400,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 74,
+        "NatNum": 73703,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 30981,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 96091,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 385,
+        "NatNum": 3470,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 19263,
+        "NatNum": 44740,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 469,
+        "NatNum": 36943,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 2813,
+        "NatNum": 40836,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 10523,
+        "NatNum": 36679,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2512,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 119,
+        "NatNum": 118977,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 40031,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 156430,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 410,
+        "NatNum": 3590,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 20086,
+        "NatNum": 48756,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 1538,
+        "NatNum": 94948,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 1610,
+        "NatNum": 30956,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 16866,
+        "NatNum": 28821,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2912,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 97,
+        "NatNum": 96672,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25929,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 94970,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 225,
+        "NatNum": 1800,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 15610,
+        "NatNum": 39222,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 775,
+        "NatNum": 26665,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 2640,
+        "NatNum": 40166,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 15807,
+        "NatNum": 31072,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1596,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 216,
+        "NatNum": 215957,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 396931,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 156689,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 115,
+        "NatNum": 2100,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 20628,
+        "NatNum": 51649,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 355,
+        "NatNum": 38019,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 4310,
+        "NatNum": 42304,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 12077,
+        "NatNum": 35454,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2686,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 57,
+        "NatNum": 56891,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 147806,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 124527,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 150,
+        "NatNum": 2300,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 21348,
+        "NatNum": 53644,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 411,
+        "NatNum": 43372,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 4259,
+        "NatNum": 45751,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 13672,
+        "NatNum": 41240,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1814,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 23,
+        "NatNum": 22903,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 72933,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 94209,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 110,
+        "NatNum": 2050,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "㈜제이에이치레전드호텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 21348,
+        "NatNum": 44532,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성호텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 267,
+        "NatNum": 48568,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔아드리아",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 2399,
+        "NatNum": 51469,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔리베라",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 6357,
+        "NatNum": 37383,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "호텔 인터시티",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1983,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 27021,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 29027,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90987,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2356,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201301"
+    },
+    {
+        "ForNum": 33,
+        "NatNum": 33050,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 17734,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68603,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1625,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201302"
+    },
+    {
+        "ForNum": 123,
+        "NatNum": 123103,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36437,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 77790,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1645,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201303"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 144151,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36335,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 140613,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2310,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201304"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 219020,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 209774,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 130455,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2934,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201305"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 105733,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 26533,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 87357,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1947,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201306"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 66757,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 43260,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 86107,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15470,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201307"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90270,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 185699,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 118429,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 18089,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201308"
+    },
+    {
+        "ForNum": 583,
+        "NatNum": 58663,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 103979,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36860,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 71610,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3317,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201309"
+    },
+    {
+        "ForNum": 518,
+        "NatNum": 294630,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 190428,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 317596,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 132776,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2326,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201310"
+    },
+    {
+        "ForNum": 266,
+        "NatNum": 47405,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 62541,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 41639,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80870,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1682,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201311"
+    },
+    {
+        "ForNum": 100,
+        "NatNum": 24691,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36487,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 36552,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 65534,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1046,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201312"
+    },
+    {
+        "ForNum": 128,
+        "NatNum": 26867,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 51599,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12870,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 7634,
+        "NatNum": 37218,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78720,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 1,
+        "NatNum": 1578,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 175,
+        "NatNum": 26173,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 49712,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6763,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 23765,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 62780,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 3,
+        "NatNum": 1461,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 173,
+        "NatNum": 42723,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80084,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9447,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 32074,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 63269,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 2,
+        "NatNum": 1277,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 339,
+        "NatNum": 68967,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 132133,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2856,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25704,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 124417,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 1238,
+        "NatNum": 2,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 276,
+        "NatNum": 79361,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 190247,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 11279,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 137636,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 104455,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 2,
+        "NatNum": 1408,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 297,
+        "NatNum": 71874,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 103606,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 7998,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9367,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 81887,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 4,
+        "NatNum": 1140,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 301,
+        "NatNum": 57787,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 86297,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 54905,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9314,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85242,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1983,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 201,
+        "NatNum": 67264,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 152613,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 69304,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14934,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 130219,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1967,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 718,
+        "NatNum": 303053,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 104902,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 32696,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 7968,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 77399,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 923,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 389,
+        "NatNum": 89251,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 191570,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 3709,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12827,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 138872,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2307,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 262,
+        "NatNum": 45537,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 56983,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2903,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 13470,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83566,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1463,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 38,
+        "NatNum": 17860,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28529,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 5970,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1968,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "엑스포과학공원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 51961,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1360,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 20,
+        "NatNum": 23119,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 58794,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 12028,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 89103,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1668,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 143,
+        "NatNum": 28806,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 46509,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 4365,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 57199,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1015,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 255,
+        "NatNum": 48172,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90662,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6745,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 54009,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1496,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 416,
+        "NatNum": 76292,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 154251,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6253,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 134854,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2634,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 599,
+        "NatNum": 124745,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 214227,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8016,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 172340,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2377,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 218,
+        "NatNum": 54028,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19441,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9328,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28420,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 520,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 235,
+        "NatNum": 53961,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 69977,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15810,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 82464,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1556,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 282,
+        "NatNum": 70207,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 143018,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 27325,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 144297,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2071,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 676,
+        "NatNum": 77370,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 95595,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 19300,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 111137,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2290,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 1291,
+        "NatNum": 427492,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 164997,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 28026,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 169335,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 80,
+        "NatNum": 2357,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 280,
+        "NatNum": 40846,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 42453,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 25239,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 82719,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2041,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 185,
+        "NatNum": 28133,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 50811,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 20620,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 88599,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1317,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 122,
+        "NatNum": 27118,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 57412,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6172,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 115739,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1359,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 59,
+        "NatNum": 26667,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 44760,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6869,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 75597,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 934,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 296,
+        "NatNum": 56121,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68696,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 10602,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 62435,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1060,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 526,
+        "NatNum": 89017,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 164718,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 14531,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 158845,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1381,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 618,
+        "NatNum": 112742,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 178514,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 18375,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 152690,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1274,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 367,
+        "NatNum": 92246,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78803,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 23398,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 82793,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1233,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 161,
+        "NatNum": 58627,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 56733,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 7410,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 94269,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1531,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 224,
+        "NatNum": 58303,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 99989,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 15322,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 118193,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2066,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 567,
+        "NatNum": 398298,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 89962,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9434,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 122156,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 259,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 391,
+        "NatNum": 83470,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 170402,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 9546,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 163171,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 2034,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 245,
+        "NatNum": 49835,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 64108,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 8677,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78827,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1880,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 65,
+        "NatNum": 28477,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 41299,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 6886,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83824,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 1682,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201701"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201702"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201703"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201704"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201705"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201706"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201707"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201708"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201709"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201710"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201711"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201712"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 63,
+        "NatNum": 28466,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "대전어린이회관",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201801"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 29207,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "대전어린이회관",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201802"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "상소오토캠핑장",
+        "rnum": 1,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3011,
+        "gungu": "동구",
+        "resNm": "찬샘마을",
+        "rnum": 2,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 83,
+        "NatNum": 63908,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "뿌리공원",
+        "rnum": 3,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전동물원",
+        "rnum": 4,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3014,
+        "gungu": "중구",
+        "resNm": "대전 아쿠아월드",
+        "rnum": 5,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "대전시립미술관",
+        "rnum": 6,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "남선공원종합체육관",
+        "rnum": 7,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3017,
+        "gungu": "서구",
+        "resNm": "장태산자연휴양림",
+        "rnum": 8,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "국립중앙과학관",
+        "rnum": 9,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "유성유스호스텔",
+        "rnum": 10,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3020,
+        "gungu": "유성구",
+        "resNm": "대전어린이회관",
+        "rnum": 11,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 3023,
+        "gungu": "대덕구",
+        "resNm": "로하스가족공원 캠핑장",
+        "rnum": 12,
+        "sido": "대전광역시",
+        "yyyymm": "201803"
+    }
+]
